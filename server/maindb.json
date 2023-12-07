@@ -1,0 +1,26 @@
+{
+  "admin": {
+    "username": "admin",
+    "password": "5f4dcc3b5aa765d61d8327deb882cf99",
+    "loginToken": "9603749ba4636f86c6a00761511871d8",
+    "logs": [
+      {
+        "time": "2023-12-07T19:26:00.989Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2023-12-07T19:33:33.636Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2023-12-07T20:11:01.049Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      }
+    ],
+    "ipLog": []
+  },
+  "clients": []
+}
